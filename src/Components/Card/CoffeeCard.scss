@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Nunito|Oswald&display=swap');
+
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+
+h2, h3{
+    font-family: 'Nunito', sans-serif;
+}
+
+.card-container{
+    align-items: center;
+    background-position: center;
+    box-sizing: border-box;
+    display: flex;
+    display: inline-block;
+    height: 300px;
+    left: -200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+    top: 250px;
+    width: 300px;
+    .card-image{
+        background-size: cover;
+        height: 260px;
+        margin-left: 22px;
+        position: absolute;
+        width: 260px;
+    }
+    .card-description{
+        margin-top: 15px;
+        position: absolute;
+        text-align: center;
+        top:260px;
+        h2{
+            font-size: 10px;
+            color:#767676;
+            line-height: 23px;
+        }
+    }
+
+}
