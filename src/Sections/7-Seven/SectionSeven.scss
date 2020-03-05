@@ -33,6 +33,11 @@ p{
             line-height: 23px;
         }
     }
+    .container-blog-card{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
     .menu{
         box-sizing: border-box;
         margin-top: 65px;

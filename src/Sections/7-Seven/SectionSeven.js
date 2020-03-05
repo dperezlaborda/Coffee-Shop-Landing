@@ -33,6 +33,7 @@ const SectionSeven = () =>{
                     <h2>LATEST FROM BLOG</h2>
                     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.</p>
                 </div>
+                <div className="container-blog-card">
                     {cards.map ( card =>{
                         return(
                             <BlogCard
@@ -43,6 +44,7 @@ const SectionSeven = () =>{
                             </BlogCard>
                         );
                     })}
+                </div>
                 <div className="menu">
                     <h3>BROWSE MENU</h3>
                 </div>
