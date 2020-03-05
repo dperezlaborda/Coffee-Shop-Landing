@@ -24,16 +24,18 @@
         box-sizing: border-box;
         height: 100%;
         padding: 100px 140px;
+        width: 50%;
+        .browse-menu{
+            color:#ffffff;
+            font-size: 10px;
+            letter-spacing: 2px;
+        }
     }
     .footer-left{
         background-image: url(section_bg_7.jpg);
         background-position: left center;
         background-repeat: no-repeat;
         background-size: cover;
-        width: 50%;
-    }
-    .footer-right{
-        width: 50%;
     }
 }
 

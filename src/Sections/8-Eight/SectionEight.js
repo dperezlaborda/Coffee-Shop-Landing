@@ -10,7 +10,7 @@ const SectionEight = () =>{
                 <p className="footer-text">08pm - 12am</p>
                 <h3 className="footer-sub-t">WEEKENDS</h3>
                 <p className="footer-text">12pm - 02am</p>
-                <h4>BROWSE MENU</h4>
+                <h4 className="browse-menu">BROWSE MENU</h4>
             </div>
             <div className="half footer-right">
                 <h2 className="footer-title">CONTACT</h2>
