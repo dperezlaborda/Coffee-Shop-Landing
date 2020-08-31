@@ -1,3 +1,3 @@
 <h1>Landing-React</h1>
 
-Trabajo de practica. 
+Trabajo de practica. Esta creado para desktop. 
