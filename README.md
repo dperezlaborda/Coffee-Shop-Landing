@@ -1,3 +1,3 @@
 <h1>Landing-React</h1>
 
-Trabajo de practica. Esta creado para desktop. 
+Ejercicio creado en curso de Front-end de Ada. Tiene solo la version desktop. 
